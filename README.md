@@ -20,3 +20,10 @@ In this project, I incorporated React icons to enable seamless navigation betwee
 
 ![Screenshot (96)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/b0a816cc-aaa8-44d7-8a62-9a9a4bf021a1)
 
+#### Drop Down
+
+In this project, an event listener is employed to facilitate toggling, while state hooks in React are utilized for effective data handling.
+
+![Screenshot (97)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/a9a10650-815e-46bd-944e-9bd4a07ab71b)
+
+
