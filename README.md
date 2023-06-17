@@ -26,4 +26,11 @@ In this project, an event listener is employed to facilitate toggling, while sta
 
 ![Screenshot (97)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/a9a10650-815e-46bd-944e-9bd4a07ab71b)
 
+#### Menu 
+
+In this project, the 'set' function is employed to retrieve distinct categories from the menu, while the 'filter' function is utilized to fetch products based on those categories. Additionally, the 'useState' React hook is employed to efficiently manage data.
+
+![Screenshot (98)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/42f13308-fe37-4e1d-aedc-7651b694845a)
+
+
 
