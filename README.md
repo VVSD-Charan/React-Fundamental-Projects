@@ -50,6 +50,10 @@ This project marks the beginning of my React learning journey, where I tackled f
 
 ![image](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/16c9b786-fab1-4fd4-b71d-afb4bfac2d03)
 
+#### Color Generator
 
+This project generates colors based on the provided hash value using Values.js. React-toastify is utilized for displaying alerts. Event listeners enable the functionality of the form, while the state hook manages the data.
+
+![Screenshot (103)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/aaba4f89-66c4-4898-8cd0-dd349da5a799)
 
 
