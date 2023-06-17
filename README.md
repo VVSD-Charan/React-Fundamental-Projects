@@ -44,5 +44,12 @@ The focal aspect of this project revolves around the implementation of CSS trans
 
 ![Screenshot (101)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/255020b1-7e34-4229-8cfc-7b3febb51d34)
 
+#### Random text generator
+
+This project marks the beginning of my React learning journey, where I tackled form handling and controlled inputs. By utilizing event listeners and React state hooks, I managed to handle data changes effectively. The project's functionality involved receiving a number input from the user and displaying that many paragraphs upon submission.
+
+![image](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/16c9b786-fab1-4fd4-b71d-afb4bfac2d03)
+
+
 
 
