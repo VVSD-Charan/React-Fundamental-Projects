@@ -32,5 +32,10 @@ In this project, the 'set' function is employed to retrieve distinct categories 
 
 ![Screenshot (98)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/42f13308-fe37-4e1d-aedc-7651b694845a)
 
+#### Tabs
+
+In this project, UUID is utilized for generating unique IDs, event listeners are implemented to handle button clicks, and state hooks are employed for efficient data management.
+
+![Screenshot (99)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/446d6a1d-1fb8-474f-b012-5369e2a1bbbc)
 
 
