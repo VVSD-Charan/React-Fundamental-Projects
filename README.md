@@ -38,4 +38,11 @@ In this project, UUID is utilized for generating unique IDs, event listeners are
 
 ![Screenshot (99)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/446d6a1d-1fb8-474f-b012-5369e2a1bbbc)
 
+#### Slider
+
+The focal aspect of this project revolves around the implementation of CSS translate and transform. The carousel's left and right clicks are expertly managed through event listeners, while the carousel index is seamlessly handled using the React state hook.
+
+![Screenshot (101)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/255020b1-7e34-4229-8cfc-7b3febb51d34)
+
+
 
