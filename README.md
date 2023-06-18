@@ -56,4 +56,31 @@ This project generates colors based on the provided hash value using Values.js. 
 
 ![Screenshot (103)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/aaba4f89-66c4-4898-8cd0-dd349da5a799)
 
+#### To-Do List
+
+I utilized local storage in the To-Do list project to prevent task loss upon refreshing the web page. React state hooks were employed to manage data stored as objects, while event listeners were implemented for checkbox clicks, task deletion, and task addition.
+
+![Screenshot (104)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/e5d6d2b7-6baf-4961-9a6c-3cfd11af7324)
+
+#### Navbar
+
+The dynamic navbar in this project utilizes the react useRef and getBoundingClientRect() function to accurately determine the height of links when the toggle button is clicked on small screens. Event listeners are implemented to handle toggle button clicks, while the react state hook manages button clicks and controls the display of links.
+
+On large screen
+
+![Screenshot (105)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/215aba9c-54ee-4dec-bf76-4796a2c029a7)
+
+On a small screen without clicking the toggle button
+
+![Screenshot (106)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/bddeef55-a088-4889-8dd2-f9d22ca7e998)
+
+On the small screen after clicking the toggle button
+
+![Screenshot (107)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/2be37a82-7ced-472f-8561-a30502a63c61)
+
+
+
+
+
+
 
