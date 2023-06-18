@@ -108,7 +108,29 @@ The "Sidebar Modal" project serves as a valuable reference for creating visually
 
 ![Screenshot (114)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/e73f8485-660f-4cea-9573-d5c2712c4a6d)
 
+<br><br><br>
+## Landing page
 
+The "Landing Page" project serves as a helpful reference for implementing landing pages in significant projects. It features a responsive design where a navbar is displayed on large screens, and a sidebar is shown on smaller screens. Additionally, hovering over navbar items on larger screens reveals submenus, which disappear when the mouse pointer moves away from them. To handle the appearance of submenus, React's useRef is utilized, while the state hook manages the button toggle functionality.
+
+#### Home page(Large screen)
+
+![Screenshot (115)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/746728d1-d96e-486e-b2d2-d7deecb4414a)
+
+#### Home page (Small screen)
+
+![Screenshot (118)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/ea7fe46e-c36e-4677-8564-0d383d9b45e5)
+
+
+
+#### Hovering navbar items (Large screen)
+
+![Screenshot (116)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/b6f233bb-f8ef-4b50-9446-f346353f0c31)
+
+
+#### Sidebar (Small screen)
+
+![Screenshot (117)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/4575b1b5-b711-4256-b7b5-cc67d1d99c72)
 
 
 
