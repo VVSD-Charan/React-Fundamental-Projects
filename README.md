@@ -56,4 +56,11 @@ This project generates colors based on the provided hash value using Values.js. 
 
 ![Screenshot (103)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/aaba4f89-66c4-4898-8cd0-dd349da5a799)
 
+#### To-Do List
+
+I utilized local storage in the To-Do list project to prevent task loss upon refreshing the web page. React state hooks were employed to manage data stored as objects, while event listeners were implemented for checkbox clicks, task deletion, and task addition.
+
+![Screenshot (104)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/e5d6d2b7-6baf-4961-9a6c-3cfd11af7324)
+
+
 
