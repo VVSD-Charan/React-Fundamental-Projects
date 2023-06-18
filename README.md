@@ -78,6 +78,23 @@ On the small screen after clicking the toggle button
 
 ![Screenshot (107)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/2be37a82-7ced-472f-8561-a30502a63c61)
 
+#### Sidebar and Modal
+
+The "Sidebar Modal" project serves as a valuable reference for creating visually appealing sidebars and modals in larger projects. It effectively implements React context provider and global context concepts, enabling smaller and reusable code. Additionally, the project utilizes React state hooks to manage toggle button functionality and employs event listeners to handle click events.
+
+Home page
+
+![Screenshot (112)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/b8a9895a-d7ff-4015-b6d5-3e7621d063dc)
+
+
+Response on clicking sidebar toggle button
+
+![Screenshot (113)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/f0bcc128-629a-4fba-b6bb-31dbf964cfcc)
+
+
+Response on clicking modal button
+
+![Screenshot (114)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/e73f8485-660f-4cea-9573-d5c2712c4a6d)
 
 
 
