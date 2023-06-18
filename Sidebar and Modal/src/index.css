@@ -257,6 +257,7 @@ ul {
 Project CSS
 ===============
 */
+
 main {
   min-height: 100vh;
   display: flex;
@@ -272,7 +273,6 @@ main {
   background: transparent;
   border-color: transparent;
   color: var(--primary-500);
-  transition: var(--transition);
   cursor: pointer;
   animation: bounce 2s ease-in-out infinite;
 }
@@ -289,9 +289,13 @@ main {
   }
 }
 
-/* Modal  */
-.modal-overlay
-{
+/*
+=============== 
+Modal
+===============
+*/
+
+.modal-overlay {
   position: fixed;
   top: 0;
   left: 0;
@@ -300,21 +304,18 @@ main {
   background: rgba(0, 0, 0, 0.5);
   display: grid;
   place-items: center;
+  z-index: -1;
   visibility: hidden;
   opacity: 0;
 }
-
-.show-modal
-{
+.show-modal {
   opacity: 1;
   visibility: visible;
   z-index: 10;
   transition-property: opacity;
   transition-duration: 2s;
 }
-
-.modal-container
-{
+.modal-container {
   background: var(--white);
   width: 90vw;
   height: 30vh;
@@ -326,9 +327,8 @@ main {
   position: relative;
 }
 
-.close-modal-btn
-{
-  position:absolute;
+.close-modal-btn {
+  position: absolute;
   top: 1rem;
   right: 1rem;
   font-size: 2rem;
@@ -338,6 +338,11 @@ main {
   color: var(--red-dark);
 }
 
+/*
+=============== 
+Sidebar
+===============
+*/
 
 .sidebar {
   position: fixed;
@@ -349,38 +354,37 @@ main {
   display: grid;
   grid-template-rows: auto 1fr auto;
   row-gap: 1rem;
-  box-shadow: var(---red-dark);
+  box-shadow: var(--red-dark);
   transition: var(--transition);
-  transform: translate(-100%);
+  /* toggle logic */
+  transform: translateX(-100%);
 }
 .show-sidebar {
-  transform: translate(0);
+  transform: translateX(0);
 }
+
 @media screen and (min-width: 676px) {
   .sidebar {
     width: 400px;
   }
 }
-
 .sidebar-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1rem 1.5rem;
 }
-.close-btn {
-  font-size: 1.75rem;
-  background: transparent;
-  border-color: transparent;
-  color: var(--primary-500);
-  cursor: pointer;
-  color: var(--red-dark);
-}
-
 .logo {
   height: 40px;
 }
 
+.close-btn {
+  font-size: 1.75rem;
+  background: transparent;
+  border-color: transparent;
+  color: var(--red-dark);
+  cursor: pointer;
+}
 .links a {
   display: flex;
   align-items: center;
@@ -391,7 +395,6 @@ main {
   transition: var(--transition);
   letter-spacing: var(--letterSpacing);
 }
-
 .links a:hover {
   background: var(--grey-100);
   color: var(--grey-800);
@@ -402,20 +405,21 @@ main {
   margin-right: 1rem;
   transition: var(--transition);
 }
-.links a:hover svg {
+.links a svg:hover {
   color: var(--grey-600);
 }
-.social-icons {
-  justify-self: center;
+
+.social-links {
   display: flex;
+  justify-self: center;
   padding-bottom: 2rem;
 }
-.social-icons a {
+.social-links a {
   font-size: 1.5rem;
   margin: 0 0.5rem;
   color: var(--primary-500);
   transition: var(--transition);
 }
-.social-icons a:hover {
+.social-links a:hover {
   color: var(--primary-800);
 }
