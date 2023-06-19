@@ -132,6 +132,15 @@ The "Landing Page" project serves as a helpful reference for implementing landin
 
 ![Screenshot (117)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/4575b1b5-b711-4256-b7b5-cc67d1d99c72)
 
+<br><br><br>
+## Cart
+
+The "Cart" project serves as a valuable point of reference for an E-commerce website. In React, the useReducer hook efficiently manages data, using a map as the data type for storing, updating, and deleting items. React Context is employed to create reusable and compact code, while EventListeners are utilized for handling decrease, increase, and button click events.
+
+![Screenshot (119)](https://github.com/VVSD-Charan/React-Fundamental-Projects/assets/105978561/fec245ef-5c19-4d0a-af3f-0397feb540c3)
+
+
+
 
 
 
